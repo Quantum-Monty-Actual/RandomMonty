@@ -13,7 +13,7 @@ Code’s simple, log’s verbose—every trial’s recorded. Open for replicatio
 
 How to Run:
 
-python3 QuantumMonty2.py
+python3 QuantumMonty.py
 Outputs win rates + monty_hall_log.txt (2.5M+ lines of trial details).
 
 Purpose:
