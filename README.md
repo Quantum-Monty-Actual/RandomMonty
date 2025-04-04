@@ -5,9 +5,9 @@ This Python script tests a variation on the Monty Hall problem, exploring if Mon
 
 Setup: 1M trials each: Knowledgeable Monty (knows car location, reveals a goat) vs. Random Monty (picks randomly, discards car reveals). Player always switches.
 
-Hypothesis: Random Monty’s lack of knowledge might alter odds, possibly via retrocausality or observer effects. Includes a 1% “intent” flip as a speculative nudge.
+Hypothesis: Random Monty’s lack of knowledge might alter odds, possibly via retrocausality or observer effects.
 
-Results: Knowledgeable Monty: 66.48% (expected). Random Monty: 49.96% (near 50/50, not 66.7%). Anomaly or error?
+Results: Knowledgeable Monty: 66.48% (expected). Random Monty: 50.01% (near 50/50, not 66.7%). Anomaly or error?
 
 Code’s simple, log’s verbose—every trial’s recorded. Open for replication, critique, or expansion.
 
