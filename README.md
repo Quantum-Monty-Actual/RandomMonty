@@ -1,5 +1,6 @@
 # RandomMonty
 My personal white whale
+
 This Python script tests a variation on the Monty Hall problem, exploring if Monty’s knowledge state affects switch odds beyond classical probability. Standard setup predicts a 2/3 win rate (~66.7%) for switching. Does intent—or lack of it—change that?
 
 Setup: 1M trials each: Knowledgeable Monty (knows car location, reveals a goat) vs. Random Monty (picks randomly, discards car reveals). Player always switches.
