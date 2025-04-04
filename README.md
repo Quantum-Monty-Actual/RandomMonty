@@ -27,6 +27,7 @@ Clone it, cd in, and:
     python3 AudienceMontyFullHouse.py
 
 No setup, no fuss. Tweak num_trials if you want more (or less) runs.
+
 Why It Matters
 
 Classic Monty Hall leans on Monty’s omniscience—strip that, and the game shifts. These scripts prove it: 50/50 isn’t just a fluke, it’s the rule when Monty’s blind. That 25% anomaly? It’s not a bug—it’s a signal. Pre-Monty guesses get tangled in the filter, post-Monty ones ride the resolved odds. Stats says one thing, causality another—maybe there’s more under the hood.
